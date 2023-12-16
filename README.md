@@ -9,14 +9,15 @@ This project focuses on sentiment analysis of Twitter data, leveraging advanced 
 - `Analysis.ipynb`: A Jupyter notebook containing the detailed analysis process, following the CRISP-DM methodology.
 - `app.py`: Python file to run the Flask web application for real-time tweet sentiment analysis.
 - `LRmodel.pkl`: The pickled Logistic Regression model used in the backend for sentiment classification.
-
 - `Project_Report.pdf`: An in-depth report describing the analysis procedure, methodology, and findings.
 - `Presentation.pptx`: A PowerPoint presentation explaining the project process.
 - `Demo_Video.mp4`: A video demonstration of the project, including a demo of the Flask application.
 
 
 `Dataset`: The dataset used in this study can be accessed via the provided [Drive link](https://drive.google.com/file/d/1X7pxCfanGIlYKdxslbO_vZU7pX2Mscaa/view)
-`vectorizer.pkl`: The pickled vecctorizer for text data preprocessing can be found at [Drive link](https://drive.google.com/file/d/1uNRxfLsaXwDyZuiWQsQihnFeceMSxVov/view?usp=sharing)
+
+
+`vectorizer.pkl`: The pickled vectorizer for text data preprocessing can be found at [Drive link](https://drive.google.com/file/d/1uNRxfLsaXwDyZuiWQsQihnFeceMSxVov/view?usp=sharing)
 
 ## Replicate the analysis
 To replicate the analysis on your own , download the Dataset zipped file and put in the repository and run the analysis
