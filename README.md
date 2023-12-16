@@ -11,7 +11,9 @@ This project focuses on sentiment analysis of Twitter data, leveraging advanced 
 - `LRmodel.pkl`: The pickled Logistic Regression model used in the backend for sentiment classification.
 - `Project_Report.pdf`: An in-depth report describing the analysis procedure, methodology, and findings.
 - `Presentation.pptx`: A PowerPoint presentation explaining the project process.
-- `Demo_Video.mp4`: A video demonstration of the project, including a demo of the Flask application.
+
+
+`Demo_Video.mp4`: A video demonstration of the project, including a demo of the Flask application can be found at [Video link](https://drive.google.com/file/d/1frtOmZYihOAYmj0Y6RryRHuWzkl7ENWQ/view?usp=sharing)
 
 
 `Dataset`: The dataset used in this study can be accessed via the provided [Drive link](https://drive.google.com/file/d/1X7pxCfanGIlYKdxslbO_vZU7pX2Mscaa/view)
